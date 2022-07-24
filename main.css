@@ -1,0 +1,17 @@
+.row {
+    justify-content: space-between;
+}
+
+.rounded-img {
+    margin: 3em;
+    margin-bottom: 0.2em;
+  
+}
+
+h1 {
+    margin: 0.1em;
+}
+
+p {
+    margin: 0.1em;
+}

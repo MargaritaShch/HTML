@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.useLocalIp": false,
+    "liveServer.settings.proxy": {
+        "enable": true,
+        "baseUri": "index.html",
+        "proxyUri": "http://192.168.178.32:80"
+    },
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true
+}
