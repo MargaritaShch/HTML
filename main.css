@@ -9,9 +9,26 @@
 }
 
 h1 {
-    margin: 0.1em;
+    margin-top: 0.1em;
+      text-shadow: 5px 2px 2px white;
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bolder;
+      color: black;
+      
 }
 
 p {
     margin: 0.1em;
+ text-shadow: 5px 2px 2px white;
+ font-family: 'Courier New', Courier, monospace ;
+ font-weight: bolder;
+    color: black;
+    font-size: x-large;
+}
+
+body {
+  background: url('4fon.png') no-repeat; 
+  background-position: center; 
+  background-size: 120%;
+  box-shadow: inset 0 0 5px;
 }
